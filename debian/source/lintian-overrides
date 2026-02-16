@@ -1,0 +1,5 @@
+python-blinker source: file-without-copyright-information
+python-blinker source: no-debian-changes
+python-blinker source: source-contains-prebuilt-windows-binary
+python-blinker source: source-is-missing
+python-blinker source: source-package-encodes-python-version
